@@ -1,0 +1,35 @@
+TryHackMe - Room - Offensive Security Intro 
+
+  
+
+Objective  
+
+Hack my first website (legally in a safe environment) and experience an ethical hacker's job. 
+
+  
+
+Activities   
+
+In this room, I used a virtual machine to access a fake bank. 
+
+I found a hidden web page through the terminal using the gobuster command (a command-line security application). 
+
+Through this page, I was granted access to the bank-to-bank transfer page. 
+
+When I was able to successfully perform the transfer from one bank to another, I completed the activity successfully. 
+
+  
+
+  
+
+Skills  
+
+Linux command line 
+
+gobuster command 
+
+Virtual Machine usage 
+
+Web application testing 
+
+Ethical Hacking 
